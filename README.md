@@ -5,4 +5,4 @@ There are 2 color inputs.
 You can pick colors you want and click to create button.
 You can see color codes in color input.
 I hope you like.
-Deployed link -> 
+Deployed link -> https://gradientcolormaker1.netlify.app/
